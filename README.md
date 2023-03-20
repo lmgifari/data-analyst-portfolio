@@ -1,13 +1,14 @@
 # My Portfolio
-Hello, my name is Lalu Muhammad Gifari Nasharullah, i'm currently doing project as a Data Analyst to visualize data to make it esier to understand.
+Hello, my name is Lalu Muhammad Gifari Nasharullah, i'm currently doing project as a Data Analyst to visualize data and make it esier to understand.
 My current expertise as a Data Analyst are :
 1. Visualize data by creating dashboards based on raw data that is processed so that it is ready for analysis and tell stories
 2. Doing Power Query to combine and transform data from different files to one worksheet in excel
+3. Telling stories from data anlysis result to make some decisions
 
 to improve my skill as a Data Analyst, I currently improving at :
 1. Learning SQL to processing Databases
 2. Learning Python to preparing data for analysis
-3. Learning Tableau and Power BI to visualize data more efficiently and looks more modern
+3. Learning Tableau, Power BI, Google Data Studio to visualize data more efficiently and looks more modern
 
 # My Current Project
 To prove my skill as a data analysis i'm puting my project down below
