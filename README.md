@@ -11,5 +11,5 @@ to improve my skill as a Data Analyst, I currently improving at :
 
 # My Current Project
 To prove my skill as a data analysis i'm puting my project down below
-1. Analyzing BPJS service data from Januari - Juni 2017
-2. Combine and Transform order data from 2017 to 2020
+1. Analyzing BPJS service data from Januari - Juni 2017 using pivot table to make a Dashboard in excel
+2. Combine and Transform order data from 2017 to 2020 using power query
