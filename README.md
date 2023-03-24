@@ -8,7 +8,7 @@ My current expertise as a Data Analyst are :
 
 to improve my skill as a Data Analyst, I currently improving at :
 1. Learning SQL to processing Databases
-2. Learning Python to preparing data for analysis
+2. Learning Python to prepare and visualize data for analysis
 3. Learning Tableau, Power BI, and Google Data Studio to visualize data more efficiently and looks more modern
 
 # My Current Project
