@@ -19,3 +19,5 @@ To prove my skill as a data analyst, i'm puting my project down below
 2. Combine and Transform order data from 2017 to 2020 using power query
 3. Make Pivot table from Microsoft Access, Microsoft Excel, and CSV data using power pivot
 4. Analyzing and make a dashboard of arrival of tourist compared to stay overnight data of domestic tourists and foreign tourists at Nusa Tenggara Barat in 2022 using excel
+5. Make Excel Power Query Tutorial
+6. Make Standart SQL Syntax Tutorial
