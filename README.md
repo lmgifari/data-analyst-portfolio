@@ -21,3 +21,4 @@ To prove my skill as a data analyst, i'm puting my project down below
 4. Analyzing and make a dashboard of arrival of tourist compared to stay overnight data of domestic tourists and foreign tourists at Nusa Tenggara Barat in 2022 using excel
 5. Make Excel Power Query Tutorial
 6. Make Standart SQL Syntax Tutorial
+7. Completing learning Basic SQL (SELECT, FROM, JOIN, WHERE, LIKE, GROUP BY, HAVING, ORDER BY, LIMIT), using Subquery and other basic SQL built in functions
