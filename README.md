@@ -6,11 +6,11 @@ My current expertise as a Data Analyst are :
 3. Using Power Query to combine and transform data from different files to one worksheet in excel
 4. Using Power Pivot to make pivot tables from any data source that are linked with 1 same criteria to combine data from any databases and data model
 5. Manage Databases using SQL syntax to collect prefered output from databases
-6. Telling stories from data anlysis result to make some decisions
+6. Use Python to dive in the database, manage and visualize data for analysis
+7. Telling stories from data anlysis result to make some decisions
 
 to improve my skill as a Data Analyst, I currently improving at :
-1. Learning Python to prepare and visualize data for analysis
-2. Learning Tableau, Power BI, and Google Data Studio to visualize data more efficiently and looks more modern
+1. Learning Tableau, Power BI, and Google Data Studio to visualize data more efficiently and looks more modern
 
 # My Current Project
 To prove my skill as a data analyst, i'm puting my project down below
@@ -22,3 +22,5 @@ To prove my skill as a data analyst, i'm puting my project down below
 5. Make Excel Power Query Tutorial
 6. Make Standart SQL Syntax Tutorial
 7. Completing learning Basic SQL (SELECT, FROM, JOIN, WHERE, LIKE, GROUP BY, HAVING, ORDER BY, LIMIT), using Subquery and other basic SQL built in functions
+8. Completing learning Advance SQL (Sub-Query, Python Connection, etc.)
+9. Completing learning Python for Data Analyst Using pandas, matplotlib, and numpy libary
